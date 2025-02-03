@@ -42,9 +42,6 @@ The destination folder is stored in `%LOCALAPPDATA%\MaaAssistant\destination.txt
 ### Contributing
 Contributions, bug reports, and suggestions are welcome! Feel free to open issues or pull requests.
 
-### License
-This project is licensed under the MIT License.
-
 ---
 
 ## 中文
@@ -85,8 +82,5 @@ This project is licensed under the MIT License.
 
 ### 贡献
 欢迎大家提交问题、建议或贡献代码！请随时提交 issue 或 pull request。
-
-### 许可协议
-本项目采用 MIT 许可协议。
 
 ---
